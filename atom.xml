@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://xunzhimeng.github.io</id>
+    <id>http://xunzhimeng.github.io</id>
     <title>寻之梦</title>
-    <updated>2019-05-27T11:38:31.184Z</updated>
+    <updated>2019-05-27T11:40:04.336Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://xunzhimeng.github.io"/>
-    <link rel="self" href="https://xunzhimeng.github.io/atom.xml"/>
+    <link rel="alternate" href="http://xunzhimeng.github.io"/>
+    <link rel="self" href="http://xunzhimeng.github.io/atom.xml"/>
     <subtitle>隐山-----------寻与飘的故乡</subtitle>
-    <logo>https://xunzhimeng.github.io/images/avatar.png</logo>
-    <icon>https://xunzhimeng.github.io/favicon.ico</icon>
+    <logo>http://xunzhimeng.github.io/images/avatar.png</logo>
+    <icon>http://xunzhimeng.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, 寻之梦</rights>
     <entry>
         <title type="html"><![CDATA[谁主沉浮]]></title>
-        <id>https://xunzhimeng.github.io/post/shui-zhu-chen-fu</id>
-        <link href="https://xunzhimeng.github.io/post/shui-zhu-chen-fu">
+        <id>http://xunzhimeng.github.io/post/shui-zhu-chen-fu</id>
+        <link href="http://xunzhimeng.github.io/post/shui-zhu-chen-fu">
         </link>
         <updated>2019-05-27T11:36:16.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
@@ -25,8 +25,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[未来的路]]></title>
-        <id>https://xunzhimeng.github.io/post/wei-lai-de-lu</id>
-        <link href="https://xunzhimeng.github.io/post/wei-lai-de-lu">
+        <id>http://xunzhimeng.github.io/post/wei-lai-de-lu</id>
+        <link href="http://xunzhimeng.github.io/post/wei-lai-de-lu">
         </link>
         <updated>2019-05-27T11:36:03.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
@@ -38,8 +38,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[寻之梦的由来]]></title>
-        <id>https://xunzhimeng.github.io/post/hello-gridea</id>
-        <link href="https://xunzhimeng.github.io/post/hello-gridea">
+        <id>http://xunzhimeng.github.io/post/hello-gridea</id>
+        <link href="http://xunzhimeng.github.io/post/hello-gridea">
         </link>
         <updated>2019-05-27T11:27:20.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
