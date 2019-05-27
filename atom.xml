@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://xunzhimeng.com</id>
+    <id>https://xunzhimeng.com</id>
     <title>寻之梦</title>
-    <updated>2019-05-27T11:48:31.096Z</updated>
+    <updated>2019-05-27T12:14:31.154Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="http://xunzhimeng.com"/>
-    <link rel="self" href="http://xunzhimeng.com/atom.xml"/>
+    <link rel="alternate" href="https://xunzhimeng.com"/>
+    <link rel="self" href="https://xunzhimeng.com/atom.xml"/>
     <subtitle>隐山-----------寻与飘的故乡</subtitle>
-    <logo>http://xunzhimeng.com/images/avatar.png</logo>
-    <icon>http://xunzhimeng.com/favicon.ico</icon>
+    <logo>https://xunzhimeng.com/images/avatar.png</logo>
+    <icon>https://xunzhimeng.com/favicon.ico</icon>
     <rights>All rights reserved 2019, 寻之梦</rights>
     <entry>
         <title type="html"><![CDATA[谁主沉浮]]></title>
-        <id>http://xunzhimeng.com/post/shui-zhu-chen-fu</id>
-        <link href="http://xunzhimeng.com/post/shui-zhu-chen-fu">
+        <id>https://xunzhimeng.com/post/shui-zhu-chen-fu</id>
+        <link href="https://xunzhimeng.com/post/shui-zhu-chen-fu">
         </link>
         <updated>2019-05-27T11:36:16.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
@@ -25,8 +25,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[未来的路]]></title>
-        <id>http://xunzhimeng.com/post/wei-lai-de-lu</id>
-        <link href="http://xunzhimeng.com/post/wei-lai-de-lu">
+        <id>https://xunzhimeng.com/post/wei-lai-de-lu</id>
+        <link href="https://xunzhimeng.com/post/wei-lai-de-lu">
         </link>
         <updated>2019-05-27T11:36:03.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
@@ -38,8 +38,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[寻之梦的由来]]></title>
-        <id>http://xunzhimeng.com/post/hello-gridea</id>
-        <link href="http://xunzhimeng.com/post/hello-gridea">
+        <id>https://xunzhimeng.com/post/hello-gridea</id>
+        <link href="https://xunzhimeng.com/post/hello-gridea">
         </link>
         <updated>2019-05-27T11:27:20.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
